@@ -1,0 +1,78 @@
+{
+ "exp": "grid87c",
+ "tc": "5+0.05",
+ "chunk": 50,
+ "runs": [
+  {
+   "name": "m1_1100",
+   "elo": 1100,
+   "games": 1000,
+   "seed": 117000,
+   "chunk": 50,
+   "opts": [],
+   "opponent": "maia-1100"
+  },
+  {
+   "name": "m1_1300",
+   "elo": 1300,
+   "games": 1000,
+   "seed": 117000,
+   "chunk": 50,
+   "opts": [],
+   "opponent": "maia-1300"
+  },
+  {
+   "name": "m1_1500",
+   "elo": 1500,
+   "games": 1000,
+   "seed": 117000,
+   "chunk": 50,
+   "opts": [],
+   "opponent": "maia-1500"
+  },
+  {
+   "name": "m1_1700",
+   "elo": 1700,
+   "games": 1000,
+   "seed": 117000,
+   "chunk": 50,
+   "opts": [],
+   "opponent": "maia-1700"
+  },
+  {
+   "name": "m1_1900",
+   "elo": 1900,
+   "games": 1000,
+   "seed": 117000,
+   "chunk": 50,
+   "opts": [],
+   "opponent": "maia-1900"
+  }
+ ],
+ "shard": [
+  [
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79
+  ],
+  340
+ ],
+ "max_parallel": 20
+}
