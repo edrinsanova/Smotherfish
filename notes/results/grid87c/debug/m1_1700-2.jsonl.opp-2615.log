@@ -1,0 +1,9 @@
+[1m[31m       _
+|   _ | |
+|_ |_ |_|[0m v0.32.1 built Nov 28 2026
+Search algorithm: classic
+Loading weights file from: engines/maia-1700.pb.gz
+BLAS vendor: OpenBLAS.
+OpenBLAS [OpenBLAS 0.3.32 NO_LAPACKE DYNAMIC_ARCH NO_AFFINITY SkylakeX MAX_THREADS=128].
+OpenBLAS found 4 SkylakeX core(s).
+BLAS max batch size is 256.
