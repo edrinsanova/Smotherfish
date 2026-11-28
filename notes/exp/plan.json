@@ -1,0 +1,92 @@
+{
+ "exp": "grid86",
+ "tc": "5+0.05",
+ "chunk": 50,
+ "runs": [
+  {
+   "name": "e1500_B",
+   "elo": 1500,
+   "games": 6000,
+   "seed": 116000,
+   "chunk": 50,
+   "opts": []
+  },
+  {
+   "name": "e1500_R80",
+   "elo": 1500,
+   "games": 6000,
+   "seed": 116000,
+   "chunk": 50,
+   "opts": [
+    "SmotherSeekRule50=80"
+   ]
+  },
+  {
+   "name": "e1500_R90",
+   "elo": 1500,
+   "games": 6000,
+   "seed": 116000,
+   "chunk": 50,
+   "opts": [
+    "SmotherSeekRule50=90"
+   ]
+  },
+  {
+   "name": "m1500_B",
+   "elo": 1500,
+   "games": 1000,
+   "seed": 116000,
+   "chunk": 50,
+   "opts": [],
+   "opponent": "maia3-1500"
+  },
+  {
+   "name": "m1500_R80",
+   "elo": 1500,
+   "games": 1000,
+   "seed": 116000,
+   "chunk": 50,
+   "opts": [
+    "SmotherSeekRule50=80"
+   ],
+   "opponent": "maia3-1500"
+  },
+  {
+   "name": "m1500_R90",
+   "elo": 1500,
+   "games": 1000,
+   "seed": 116000,
+   "chunk": 50,
+   "opts": [
+    "SmotherSeekRule50=90"
+   ],
+   "opponent": "maia3-1500"
+  }
+ ],
+ "shard": [
+  [
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79
+  ],
+  340
+ ],
+ "max_parallel": 20
+}
